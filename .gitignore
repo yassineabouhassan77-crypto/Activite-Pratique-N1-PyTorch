@@ -1,0 +1,23 @@
+# Environnement uv
+.venv/
+
+# Données téléchargées (MNIST)
+data/MNIST/
+
+# Modèles et fichiers générés
+*.pt
+*.pth
+graphe_operations.png
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+dist/
+*.egg-info/
+
+# Éditeurs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
